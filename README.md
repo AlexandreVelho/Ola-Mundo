@@ -1,4 +1,4 @@
-# Olá, Mundo!
- Primeiro repoitório do curso de Git e GitHub
+# Hello World!
+ First Git and GitHub course repository
 
- Esse repositório foi criado a partir de uma aula do Curso em Video do professor Gustavo Guanabara.
+ This repository was created from a video course lesson by professor Gustavo Guanabara.
