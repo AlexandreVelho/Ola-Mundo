@@ -4,9 +4,9 @@
  This repository was created from a video course lesson by professor Gustavo Guanabara.
 
 # Olá Mundo!
- Primeiro repositório de cursos Git e GitHub
+ Primeiro repositório de curso Git e GitHub
 
- Este repositório foi criado a partir de uma videoaula do professor Gustavo Guanabara.
+ Este repositório foi criado a partir de uma video aula do professor Gustavo Guanabara.
 
  Estou aprendendo linguagem **Markdown** no Curso em Vídeo de Git e GitHub. 
 
