@@ -45,4 +45,14 @@ Lista Demarcada:
  - [] Finalizar a reunião com o cliente
  - [] Receber pagamento
 
----   
+Tabela:
+
+Num | Nome | Nota
+---|---|---
+1 | Alexandre | 8,5
+2 | Gustavo | 10,0
+3 | Moises | 9,0
+
+Terminou a tabela!
+
+Não entendo direito para que serve o comando `document.getElementById()` da linguagem JavaScript
